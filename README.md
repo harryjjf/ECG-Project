@@ -17,3 +17,11 @@ Arduino IDE
 1. Make connections as shown below:
 
 ![circuit](https://github.com/user-attachments/assets/9c8e4691-8c09-4159-bfcb-dca9dd0326ea)
+
+| Arduino        | AD8232 Module |
+| -------------  | ------------- |
+| 3.3V           | 3.3V pin      |
+| GND            | GND pin       |
+| A1 Analogue In | Output pin    |
+| Pin 10         | LO+           |
+| Pin  11        | LO-           |
