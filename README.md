@@ -25,3 +25,13 @@ Arduino IDE
 | A1 Analogue In | Output pin    |
 | Pin 10         | LO+           |
 | Pin  11        | LO-           |
+
+## Running the code
+1. Download ECGcode.uno
+2. Open in Arduino IDE and compile
+3. Connect the Arduino to the computer and upload the file to arduino
+
+## Electrode connections
+
+
+
