@@ -37,7 +37,7 @@ Arduino IDE
 
 ![placement](https://github.com/user-attachments/assets/2d3c5531-b6e8-4596-a882-436033a2bffa)
 
-## Observing heart rate
+## Observing heart activity
 After setup is complete, compile the code and send it to the Arduino. Open the serial plotter ( Tools -> Serial plotter) to observe the heart rate. An example is below. 
 
 
